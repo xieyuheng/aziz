@@ -1,7 +1,7 @@
 {
-  "name": "@cicada-lang/aziz",
+  "name": "@xieyuheng/aziz",
   "version": "0.0.1",
-  "repository": "github:cicada-lang/aziz",
+  "repository": "github:xieyuheng/aziz",
   "main": "./lib/index.js",
   "files": [
     "lib"
@@ -25,8 +25,8 @@
     "format": "prettier src --write"
   },
   "dependencies": {
-    "@cicada-lang/partech": "^0.2.1",
-    "@cicada-lang/sexp": "^0.0.36",
+    "@xieyuheng/partech": "^0.2.1",
+    "@xieyuheng/sexp": "^0.0.36",
     "@xieyuheng/command-line": "^0.0.7",
     "@xieyuheng/ty": "^0.1.17",
     "commonmark": "^0.30.0",
